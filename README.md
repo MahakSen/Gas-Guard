@@ -1,4 +1,4 @@
-# 🔥 Gas Guard — Smart LPG Management App by Mahak Sen
+# 🔥 Gas Guard — Smart LPG Management App 
 
 > “Safety first, convenience always.” 🏠💡  
 
